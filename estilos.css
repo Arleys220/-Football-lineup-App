@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.contenedorTitulo{
+    width: 100%;
+    height: 20vh;
+    color: rgb(4, 163, 52);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}

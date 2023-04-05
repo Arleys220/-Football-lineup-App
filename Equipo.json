@@ -1,0 +1,88 @@
+
+[
+    {
+        "numero":9,
+        "nombre":"Arleys Camaño",
+        "edad": 24,
+        "posicion":"Delantero",
+        "nacionalidad":"Colombiana",
+        "imagen":"OliverAtom.jpg",
+        "id":1
+    }
+    ,
+    {
+        "numero":7,
+        "nombre":"Lulo Jerez",
+        "edad": 19 ,
+        "posicion":"Delantero",
+        "nacionalidad":"Argentina",
+        "imagen":"Steve Hyuga.jpg",
+        "id":2
+    }
+    ,
+    {
+        "numero":1,
+        "nombre":"Nelson Tobon",
+        "edad": 30,
+        "posicion":"Arquero",
+        "nacionalidad":"Venezolana",
+        "imagen":"Benji Price.jpg",
+        "id":3
+    }
+    ,
+    {
+        "numero":4,
+        "nombre":"Carlitos Velasquez",
+        "edad": 20,
+        "posicion":"Defensor",
+        "nacionalidad":"Colombiana",
+        "imagen":"Mazao Korioto.jpg",
+        "id":4
+
+    }
+    ,
+    {
+        "numero":5,
+        "nombre":"Jonathan Maidana",
+        "edad": 30,
+        "posicion":"Defensor",
+        "nacionalidad":"Argentino",
+        "imagen":"Bruce Harper.jpg",
+        "id":5
+
+    }
+    ,
+    {
+        "numero":23,
+        "nombre":"Matias Guevara",
+        "edad": 22,
+        "posicion":"Mediocampista",
+        "nacionalidad":"Argentina",
+        "imagen":"Kazuo korioto.jpg",
+        "id":6
+
+    }
+    ,
+    {
+        "numero":10,
+        "nombre":"Blass Peñafiel",
+        "edad": 30,
+        "posicion":"Mediocampista",
+        "nacionalidad":"Ecuatoriana",
+        "imagen":"Tom Misaki.jpg",
+        "id":7
+
+    }
+    ,
+    {
+        "numero":11,
+        "nombre":"Leandro Reimundo",
+        "edad": 24,
+        "posicion":"Mediocampista",
+        "nacionalidad":"Argentina",
+        "imagen":"Victor Clifford.jpg",
+        "id":8
+
+    }
+
+]
